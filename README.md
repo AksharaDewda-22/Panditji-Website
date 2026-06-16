@@ -1,2 +1,0 @@
-# Akshara
-My projects
